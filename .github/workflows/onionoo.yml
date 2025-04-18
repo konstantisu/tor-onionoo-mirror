@@ -2,7 +2,7 @@ name: Mirror Tor onionoo data
 
 on:
   schedule:
-    - cron: '27 */12 * * *'
+    - cron: '42 */14 * * *'
   workflow_dispatch:
 
 jobs:
